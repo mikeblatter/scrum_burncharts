@@ -1,6 +1,6 @@
-# Scrum BurnDown Charts Presentation
+# Scrum Burndown Charts Presentation
 
-Includes Power Point presentation on Burn Down Charts and Meanings
+Includes Power Point presentation on Burndown Charts and Meanings
 
 ## Sources
 
